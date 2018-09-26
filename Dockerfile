@@ -1,1 +1,1 @@
-jdk10/Dockerfile
+jdk11/Dockerfile
